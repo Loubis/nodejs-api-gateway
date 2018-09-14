@@ -17,7 +17,7 @@ nano src/config.js
 ```
 Add your new or existing database informations, keys for Google and Facebook, etc. . Here you can also setup the proxy. For the case that the examples are not engough look at https://www.npmjs.com/package/express-http-proxy for more in depth configuration.
 
-### 4.
+### 4. Start the Gateway
 ```
 node src/server.js
 ```
