@@ -55,7 +55,7 @@ config.proxy = {
         },
         {
             endpointHook: "/sampleSecurePath",
-            proxySetting: httpProxy('http://api.recalot.com'),
+            proxySetting: httpProxy('http://your.host.com'),
             secure: true
         }
     ]
